@@ -1,5 +1,5 @@
-# SystematicReviewMetaAnalysis
-References:
+# Systematic Review and Meta-Analysis of Church-based Interventions Targeting Cardiovascular Disease Risk Factors
+Supplemental References:
 1.	Abbott LS, Slate EH, Lemacks JL. Influencing cardiovascular health habits in the rural, deep south: results of a cluster randomized trial. Health education research. 2019;34(2):200-208.
 2.	Arredondo EM, Elder JP, Haughton J, et al. Fe en Accion: Promoting Physical Activity Among Churchgoing Latinas. American journal of public health. 2017;107(7):1109-1115.
 3.	Baig AA, Benitez A, Locklin CA, et al. Picture Good Health: A Church-Based Self-Management Intervention Among Latino Adults with Diabetes. Journal of general internal medicine. 2015;30(10):1481-1490.
